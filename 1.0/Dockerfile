@@ -5,7 +5,7 @@
 FROM portefaix/base:3.2
 MAINTAINER Nicolas Lamirault <nicolas.lamirault@gmail.com>
 
-ENV KUBERNETES_VERSION 1.0.1
+ENV KUBERNETES_VERSION 1.0.7
 ENV GOPATH /go
 
 RUN apk add --update build-base curl ca-certificates go git mercurial openssl iptables

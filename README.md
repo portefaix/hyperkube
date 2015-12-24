@@ -22,8 +22,9 @@ Install [Docker Compose][] and launch a local [Kubernetes][] cluster :
 
 ## Supported tags
 
+- `1.1.3` [![](https://badge.imagelayers.io/portefaix/hyperkube:1.1.3.svg)](https://imagelayers.io/?images=portefaix/hyperkube:1.1.3 'imagelayers.io')
+- `1.0.7` [![](https://badge.imagelayers.io/portefaix/hyperkube:1.0.7.svg)](https://imagelayers.io/?images=portefaix/hyperkube:1.0.7 'imagelayers.io')
 - `1.0.1` [![](https://badge.imagelayers.io/portefaix/hyperkube:1.0.1.svg)](https://imagelayers.io/?images=portefaix/hyperkube:1.0.1 'imagelayers.io')
-
 
 
 ## Development

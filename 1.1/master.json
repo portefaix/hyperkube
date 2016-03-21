@@ -18,7 +18,7 @@
             },
             {
                 "name": "apiserver",
-                "image": "portefaix/hyperkube1.0.1",
+                "image": "portefaix/hyperkube:1.0.1",
                 "command": [
                     "/hyperkube",
                     "apiserver",
@@ -31,7 +31,7 @@
             },
             {
                 "name": "scheduler",
-                "image": "portefaix/hyperkube1.0.1",
+                "image": "portefaix/hyperkube:1.0.1",
                 "command": [
                     "/hyperkube",
                     "scheduler",

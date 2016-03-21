@@ -1,6 +1,6 @@
 # VERSION 1.0.7
 # AUTHOR:         Nicolas Lamirault <nicolas.lamirault@gmail.com>
-# DESCRIPTION:    portefaix/grafana
+# DESCRIPTION:    portefaix/hyperkube
 
 FROM portefaix/base:3.2
 MAINTAINER Nicolas Lamirault <nicolas.lamirault@gmail.com>
